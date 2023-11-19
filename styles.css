@@ -1,0 +1,57 @@
+/**************************** Etiquetas de Clase *******************************************************************/
+
+.btn {
+    margin-left:  70%;
+    margin-bottom: 20px;;
+}
+
+
+/**************************** Etiquetas de ID ordenadas alfabéticamente *********************************************/
+
+#barra_superior {
+    height: 100px;
+
+}
+
+
+#habilidades {
+    height: 600px;
+    background-color: lightgoldenrodyellow;
+}
+
+
+#holamellamo {
+    height: 400px;
+    background-color: skyblue;
+}
+
+#logoAzul {
+    width: 50px;
+    margin: 20px;
+}
+
+
+#portafolio {
+    height: 800px;
+    background-color: skyblue;
+}
+
+
+#quiensoy {
+    height: 400px;
+    background-color: lightgoldenrodyellow;
+}
+
+
+#sobremi {
+    height: 500px;
+    background-color: skyblue;
+}
+
+
+
+
+#barra_inferior {
+    height: 200px;
+    background-color: lightgoldenrodyellow;
+}
